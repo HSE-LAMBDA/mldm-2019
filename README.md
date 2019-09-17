@@ -13,3 +13,7 @@ Quick intro survey: https://forms.gle/idhcSDu8qh3Y4ggH6
 
   - [course page](https://www.hse.ru/edu/courses/305833953)
   - [course material](https://github.com/yandexdataschool/Practical_dl)
+
+
+## NFL Contest
+  - https://forms.gle/N8rg5cxVUsNiJufb8
