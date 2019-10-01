@@ -11,7 +11,7 @@ Quick intro survey: https://forms.gle/idhcSDu8qh3Y4ggH6
 
 ## Deep Learning course
 
-  - [course page](https://www.hse.ru/edu/courses/305833953)
+  - [course page](https://www.hse.ru/en/edu/courses/308378140)
   - [course material](https://github.com/yandexdataschool/Practical_dl)
 
 
